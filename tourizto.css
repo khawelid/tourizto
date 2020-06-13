@@ -1,0 +1,46 @@
+*
+{
+    box-sizing: border-box ;
+}
+
+.sechead
+{
+    background-image: url("tourism.jpg");
+    background-repeat: no-repeat  ;
+    height: 400px;
+    background-size: 100% 100%;
+    padding-top:20px; 
+    padding-top: 100px ;
+}
+.par
+{
+text-align: center;
+color: rgb(118, 118, 224);
+}
+.search
+{
+opacity: 50%;
+width: 30%;
+margin: auto;
+}
+
+.sec2par
+{
+    text-align: center;
+}
+.btnview 
+{
+    text-align: center;
+    padding-bottom: 25px;  
+}
+
+.sectravel
+{
+    background-image: url("tourism.jpg");
+    background-repeat: no-repeat  ;
+    height: 600px;;
+    background-size: 100% 100%;
+    padding-top:20px; 
+    margin-bottom:15px; 
+    
+} 
